@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Chocolate pizza",
+        "startDate": "2022",
+        "description": "A CSS project that we had during 301",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+          
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Dragon Palace China",
+        "startDate": "2022",
+        "description": "a JS CSS project about my restaurant",
+        "images": [
+          "images/portfolio/photography/p1.jpg"
+          
+        ],
+        "url": "https://github.com/osamadado123",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Horned beast",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
+          
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Electronic Health Solutions Co EHS",
+        "title": "Data Engineering",
+        "years": "9.2021 - 1.2022",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "MySql"
+        ]
+      },
+      {
+        "company": "ASAC",
+        "title": "Student",
+        "years": "7.2022 - present",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "HTML 5",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "NodeJs",
+          "ReactJS"
+        ]
+      }
+    ]
+  }
